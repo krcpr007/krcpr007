@@ -26,8 +26,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rajan_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inaayushi-mittal-309853196/)](https://www.linkedin.com/in/krcpr007)
 [![Gmail Badge](https://img.shields.io/badge/-rajankk.ug20.cse@nitp.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:rajankk.ug20.cse@nitp.ac.in)
 
+
 <center>
 <h2 align="center">Git Hub Stats</h2>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krcpr007&show_icons=true&locale=en&layout=compact" alt="krcpr007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krcpr007&show_icons=true&locale=en" alt="krcpr007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krcpr007&" alt="krcpr007" /></p>
   <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rajan-Kumar&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krcpr007&theme=dark&hide_border=true"/></p> 
