@@ -29,6 +29,7 @@
 
 <center>
 <h2 align="center">Git Hub Stats</h2>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krcpr007" alt="krcpr007" /></a> </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krcpr007&show_icons=true&locale=en&layout=compact" alt="krcpr007" /></p>
 
