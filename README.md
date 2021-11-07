@@ -1,7 +1,7 @@
 <img style="border-radius: 10px;" src="https://source.unsplash.com/1600x900/?code,coding">
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="rajan" /> </p>
 
 <p><i> I'm Rajan kumar Computer Science Undergraduate from National institute of technology Patna. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
