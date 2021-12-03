@@ -23,23 +23,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rajan_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krcpr007/)](https://www.linkedin.com/in/krcpr007)
 [![Gmail Badge](https://img.shields.io/badge/-rajankk.ug20.cse@nitp.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:rajankk.ug20.cse@nitp.ac.in)
 
-<center>
-<h2 align="center">Git Hub Stats</h2>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krcpr007" alt="krcpr007" /></a> </p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krcpr007&bg_color=0D1117&color=5BCDEC&show_icons=true&locale=en&layout=compact" alt="krcpr007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krcpr007&bg_color=0D1117&color=5BCDEC&show_icons=true&locale=en" alt="krcpr007" /></p>
+## 📊 My Github Stats
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krcpr007&" alt="krcpr007" /></p> -->
-  <br>
-<p align="center"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krcpr007&theme=dark&hide_border=true"/></p>
+  <br/>
+    <a href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krcpr007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
+  <a href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/krcpr007/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krcpr007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/krcpr007/github-readme-activity-graph"><img alt="Rajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krcpr007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
