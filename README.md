@@ -30,7 +30,7 @@
   <br/>
     <a href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krcpr007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
-  <a href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a align="right" href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
@@ -40,7 +40,7 @@
 <br/>
 <br/>
  
-<p align="center"></p>
+
 <p align="center">See More: https://metrics.lecoq.io/about/krcpr007</p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
