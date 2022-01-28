@@ -32,7 +32,7 @@
     <br/>
   <a align="right" href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krcpr007&theme=react&fire=D825DD)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krcpr007&theme=react&fire=D825DD)](https://git.io/streak-stats)
 <br/>
 <br/>
 
