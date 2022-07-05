@@ -36,12 +36,6 @@
   <a align="right" href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </div>
 <br/>
-<!-- [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krcpr007&theme=react&fire=D825DD)](https://git.io/streak-stats) -->
-
-<img alt="Rajan's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=krcpr007&theme=react&fire=D825DD" />
-<br/>
-
-<br/>
 
 <img alt="Rajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krcpr007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
@@ -52,7 +46,9 @@
 <p align="center">See More: https://metrics.lecoq.io/about/krcpr007</p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
-</center>
 
 ![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
+
+</center>
+
 
