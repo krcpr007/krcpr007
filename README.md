@@ -1,5 +1,6 @@
 <!-- <img style="border-radius:10px;" src="https://source.unsplash.com/1600x900/daily?developer"> -->
-<img style="border-radius:10px;" src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGV2ZWxvcGVyfHx8fHx8MTYzOTgzOTk0Mw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600">
+<!-- <img style="border-radius:10px;" src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGV2ZWxvcGVyfHx8fHx8MTYzOTgzOTk0Mw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600"> -->
+<img src="./Untitled%20design.gif">
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="rajan" /> </p>
@@ -9,7 +10,7 @@
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>java</code>,<code>OOPs</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/krcpr007">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://rajankr.pages.dev">https://rajankr.pages.dev</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="http://krcpr007.vercel.app/">http://krcpr007.vercel.app/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
 <!-- <li> ⚡ <b>Fun fact</b> : </li> -->
 </ul>
@@ -28,13 +29,18 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krcpr007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <div style="display:'flex" >
+    <a href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krcpr007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
     <br/>
   <a align="right" href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </div>
 <br/>
 <!-- [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krcpr007&theme=react&fire=D825DD)](https://git.io/streak-stats) -->
+
 <img alt="Rajan's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=krcpr007&theme=react&fire=D825DD" />
 <br/>
+
 <br/>
 
 <img alt="Rajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krcpr007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
@@ -46,5 +52,7 @@
 <p align="center">See More: https://metrics.lecoq.io/about/krcpr007</p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
-![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 </center>
+
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
+
