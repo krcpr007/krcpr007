@@ -29,14 +29,18 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+
 </p>
 
 <h3>Let's Connect</h3>
+<p align="center"> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@cr7__rajan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aayushimittal_)](https://twitter.com/cr7_rajan)
 [![Linkedin Badge](https://img.shields.io/badge/-Rajan_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krcpr007/)](https://www.linkedin.com/in/krcpr007)
 [![Gmail Badge](https://img.shields.io/badge/-rajankk.ug20.cse@nitp.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:rajankk.ug20.cse@nitp.ac.in)
+[![Instagram Badge](https://img.shields.io/badge/-@cr7.rajan-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/cr7.rajan)](https://www.instagram.com/cr7.rajan)
 
+</p>
 
 
 ## 📊 My Github Stats
