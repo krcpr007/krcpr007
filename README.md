@@ -8,7 +8,7 @@
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>java</code>,<code>OOPs</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/krcpr007">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="http://krcpr007.vercel.app/">http://krcpr007.vercel.app/</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://rajan.live/">rajan.live</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
 <!-- <li> ⚡ <b>Fun fact</b> : </li> -->
 </ul>
@@ -27,6 +27,7 @@
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJs" width="40" height="40" /></a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
 
 </p>
@@ -47,9 +48,9 @@
   <br/>
 
 <div style='display:"flex"' >
-    <a href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krcpr007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/krcpr007/github-readme-stats"><img style='width:"45px"' alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krcpr007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-  <a align="right" href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a align="center" href="https://github.com/krcpr007/github-readme-stats"><img alt="Rajan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcpr007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </div>
 <br/>
 
