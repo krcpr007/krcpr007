@@ -1,4 +1,5 @@
-[![@krcpr007's Holopin board](https://holopin.me/krcpr007)](https://holopin.io/@krcpr007)
+<!-- [![@krcpr007's Holopin board](https://holopin.me/krcpr007)](https://holopin.io/@krcpr007) -->
+![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="rajan" /> </p>
@@ -6,7 +7,7 @@
 <p><i> I'm Rajan kumar Computer Science Undergraduate from National institute of technology Patna. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains. <b>And looking for opportunities for SDE role </b> </i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
-<li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>java</code>,<code>OOPs</code></li>
+<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/krcpr007">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://rajan.live/">rajan.live</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
@@ -54,7 +55,7 @@
   </div>
 <br/>
 
-<img alt="Rajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krcpr007&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<!-- <img alt="Rajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krcpr007&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 <br/>
 <p align="center">
     <a href="https://github.com/krcpr007/github-readme-streak-stats">
