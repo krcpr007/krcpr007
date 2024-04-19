@@ -54,7 +54,7 @@
 <h3>Connect Me Here👇</h3>
 <p align="center"> 
 
-[![Twitter Badge](https://img.shields.io/badge/-@cr7__rajan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aayushimittal_)](https://twitter.com/cr7_rajan)
+[![Twitter Badge](https://img.shields.io/badge/-@devXrajan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devXrajan)](https://twitter.com/devXrajan)
 [![Linkedin Badge](https://img.shields.io/badge/-Rajan_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krcpr007/)](https://www.linkedin.com/in/krcpr007)
 [![Gmail Badge](https://img.shields.io/badge/-rajankk.ug20.cse@nitp.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:rajankk.ug20.cse@nitp.ac.in)
 [![Instagram Badge](https://img.shields.io/badge/-@cr7.rajan-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/cr7.rajan)](https://www.instagram.com/cr7.rajan)
