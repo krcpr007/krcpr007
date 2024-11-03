@@ -9,7 +9,7 @@
 <li> 🌱 <b>I’m currently learning</b> : <code>Golang</code>, <code>DevOps</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Full-Stack Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/krcpr007">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://krcpr007.vercel.app/">https://krcpr007.vercel.app/</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://rajankr.vercel.app/">https://rajankr.vercel.app/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
 <!-- <li> ⚡ <b>Fun fact</b> : </li> -->
 </ul>
@@ -87,5 +87,6 @@
 ![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 
 </center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6O5F91u9Ligu2l8IdE2TEY?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
