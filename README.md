@@ -6,12 +6,11 @@
 
 <p><i> I'm Rajan kumar Computer Science Undergraduate from National institute of technology Patna. I'm a Tech Enthusiast, Full stack engineer and an Open Source Contributor. I love to explore and learn about new domains and technologies</i></p>
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Golang</code>, <code>DevOps</code></li>
+<li> 🌱 <b>I’m currently learning</b> : <code>LLMOps</code>, <code>Golang</code>, <code>DevOps</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Full-Stack Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/krcpr007">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://rajankr.vercel.app/">https://rajankr.vercel.app/</a></code></li>
-<li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
-<!-- <li> ⚡ <b>Fun fact</b> : </li> -->
+<li> ⚡ <b>Fun fact</b> : I am Cat 🐱</li>
 </ul>
 
 ### Tech Stack :
