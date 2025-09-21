@@ -1,6 +1,6 @@
 <!-- [![@krcpr007's Holopin board](https://holopin.me/krcpr007)](https://holopin.io/@krcpr007) -->
 ![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
-<h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
+<h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> Hello, World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="rajan" /> </p>
 
