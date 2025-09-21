@@ -48,6 +48,54 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
+<a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="36" height="36" alt="Elasticsearch" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://deno.land/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="36" height="36" alt="Deno" /></a>
+<a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="36" height="36" alt="Bun" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" /></a>
+<a href="https://trpc.io/" target="_blank" rel="noreferrer"><img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" /></a>
+<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-colored.svg" width="36" height="36" alt="Netlify" /></a>
+<a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="36" height="36" alt="PNPM" /></a>
+<a href="https://turbo.build/" target="_blank" rel="noreferrer"><img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" width="36" height="36" alt="Turborepo" /></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="36" height="36" alt="OpenAI" /></a>
+<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/73864055?s=200&v=4" width="36" height="36" alt="Anthropic" /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg" width="36" height="36" alt="Astro" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://python.langchain.com/img/brand/wordmark.png" width="36" height="36" alt="LangChain" /></a>
+<a href="https://github.com/microsoft/semantic-kernel" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="36" height="36" alt="Semantic Kernel" /></a>
+<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="36" height="36" alt="LlamaIndex" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="Hugging Face" /></a>
+<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/74155884?s=200&v=4" width="36" height="36" alt="Pinecone" /></a>
+<a href="https://weaviate.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" width="36" height="36" alt="Weaviate" /></a>
+<a href="https://www.chroma.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/127207136?s=200&v=4" width="36" height="36" alt="Chroma" /></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="36" height="36" alt="Streamlit" /></a>
+<a href="https://gradio.app/" target="_blank" rel="noreferrer"><img src="https://gradio.app/assets/gradio.svg" width="36" height="36" alt="Gradio" /></a>
+<a href="https://www.mlflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" width="36" height="36" alt="MLflow" /></a>
+<a href="https://wandb.ai/" target="_blank" rel="noreferrer"><img src="https://wandb.ai/logo.svg" width="36" height="36" alt="Weights & Biases" /></a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="36" height="36" alt="Databricks" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" width="36" height="36" alt="Jupyter" /></a>
+<a href="https://www.nvidia.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" width="36" height="36" alt="NVIDIA" /></a>
+<a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/site/codespaces/illo-ports.png" width="36" height="36" alt="GitHub Codespaces" /></a>
+<a href="https://replicate.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/60410927?s=200&v=4" width="36" height="36" alt="Replicate" /></a>
+<a href="https://cohere.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/76249726?s=200&v=4" width="36" height="36" alt="Cohere" /></a>
+<a href="https://www.together.ai/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/101664888?s=200&v=4" width="36" height="36" alt="Together AI" /></a>
 </p>
 
 <h3>Connect Me Here👇</h3>
